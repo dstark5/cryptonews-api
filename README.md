@@ -12,13 +12,13 @@ A Cryptocurreny News api with ExpressJs,PuppeteerJs and cheerio for scrapping ne
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/dine-5h/cryptonews-api)
 ```
 
 Go to the project directory
 
 ```bash
-  cd Cryptocurreny-News-api
+  cd cryptonews-api
 ```
 
 Install dependencies
